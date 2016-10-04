@@ -1,5 +1,5 @@
 {
-    "name": "walker/incutio-php-http-client",
+    "name": "isoftware/http-client",
     "description": " HttpClient is a client class for the HTTP protocol.",
     "version": "v0.9d",
     "keywords": [
