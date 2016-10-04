@@ -1,7 +1,7 @@
 {
     "name": "isoftware/http-client",
     "description": " HttpClient is a client class for the HTTP protocol.",
-    "version": "v0.9d",
+    "version": "v0.9",
     "keywords": [
         "php",
         "httpclient",
